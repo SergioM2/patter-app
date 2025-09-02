@@ -1,12 +1,45 @@
-# React + Vite
+# 🎨 Patter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación web creada con [Vite](https://vitejs.dev/) que permite generar y visualizar patrones de manera interactiva.  
+Desplegada en **Vercel**: 👉 [patter-app.vercel.app](https://patter-app.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
+👉 [Ir a la aplicación](https://patter-app.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías
+- ⚡ [Vite](https://vitejs.dev/) - Bundler rápido y moderno
+- ⚛️ [React](https://react.dev/) - Librería para la interfaz
+- 🎨 [TailwindCSS](https://tailwindcss.com/) - Estilos y diseño responsivo
+- ☁️ [Vercel](https://vercel.com/) - Despliegue en la nube
+
+---
+
+## 📦 Instalación y uso local
+
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/SergioM2/patter-app.git
+   cd patter-app
+   ```
+
+2. **Instala las dependencias:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Inicia el servidor de desarrollo:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Abre en tu navegador:**
+
+   ```text
+   http://localhost:5173
+   ```
